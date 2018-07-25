@@ -18,3 +18,4 @@ touch .gitignore // specify files to be ignored when commiting; for folders /fol
 git branch login // create branch
 git checkout branchName // navigate to branch
 git merge branchName // merge from branch
+git push -u origin master
